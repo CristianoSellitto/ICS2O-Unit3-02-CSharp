@@ -12,6 +12,7 @@ class Program
         float width;
         float height;
         float answer;
+
         Console.WriteLine("Enter length of pyramid (cm):");
         length = Convert.ToSingle(Console.ReadLine());
         Console.WriteLine("Enter width of pyramid (cm):");
